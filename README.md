@@ -7,5 +7,5 @@ First of all to connect to MySql database edit the credentials based on your con
 
 To get access of the admin panel run `py manage.py createsuperuser` command and now give enter a username as well as email*(required).
 
-Now run `py manage.py runserver` command inside folder. I believe now you can see the page in your default browsers. 
+Now run `py manage.py runserver` command inside root folder. Now, I believe you can see the page in your default browsers. 
 
